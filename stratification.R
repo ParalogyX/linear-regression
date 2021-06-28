@@ -1,9 +1,8 @@
 library(tidyverse)
 library(dslabs)
-<<<<<<< HEAD
+
 library(HistData)
-=======
->>>>>>> fa29cddd125de26e1cb1fee1196c0228d647210f
+
 
 # number of fathers with height 72 or 72.5 inches
 sum(galton_heights$father == 72)

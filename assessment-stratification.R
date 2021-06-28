@@ -1,10 +1,9 @@
 #set.seed(1989) #if you are using R 3.5 or earlier
 set.seed(1989, sample.kind="Rounding") #if you are using R 3.6 or later
-<<<<<<< HEAD
+
 library(tidyverse)
 library(dslabs)
-=======
->>>>>>> fa29cddd125de26e1cb1fee1196c0228d647210f
+
 library(HistData)
 data("GaltonFamilies")
 
@@ -52,7 +51,6 @@ expected_daughter_height
 # b = mu_y - (r * s_y/s_x)*mu_x
 # x = 60
 # m*x+b
-<<<<<<< HEAD
+#tst comment
 
-=======
->>>>>>> fa29cddd125de26e1cb1fee1196c0228d647210f
+
